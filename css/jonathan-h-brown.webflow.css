@@ -2420,7 +2420,7 @@ figcaption {
   height: 4rem;
   margin-left: auto;
   margin-right: auto;
-  font-family: "Font Awesome 6 Free Solid 900", Arial, sans-serif;
+  font-family: "Font Awesome 6 Free Solid 900";
   font-size: 2rem;
   line-height: 4rem;
 }
